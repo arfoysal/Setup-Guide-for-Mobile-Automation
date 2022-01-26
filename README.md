@@ -183,7 +183,7 @@ Install your Java JDK version in any location. [for an organized way keep it ins
 ### T**o show connected/active adb devices with their Unique Device Identifier(udid)**
 
 ```bash
-**adb devices**
+adb devices
 ```
 
 ### Install APK ⇒ Many ways! you can do that
